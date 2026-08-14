@@ -1,2 +1,2 @@
 hey this is wvaibhav jain and im here to help you with your requirements.txt file. Please let me know what dependencies or packages you need to include, and I can assist you in creating or modifying the file accordingly.
-this file is typically used in Python projects to specify the packages and their versions that are required for the project to run. You can list each package on a new line, and you can also specify version numbers if needed. For example:   
+this file is typically used in Python projects to specify the packages and their versions that are required for the project to run. You can list each package on a new line, and you can also specify version numbers if needed. For example:
